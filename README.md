@@ -141,9 +141,11 @@ git push
 
 **20. Синхронизировать внешний и локальный репозиторий JSON**
 ```bash
-git fetch ---all
+cd JSON
+git pull
+git add .
 git status
-git merge
+git commit -m
 git push
 
 ```
