@@ -35,7 +35,7 @@ curl -u YourGitHubName:YourTokinORYourPassword https://api.github.com/user/repos
 
 **5. Клонировать репозиторий JSON на локальный компьютер**
 - copy link of repository under `Code` button
-![Commit button](/C:/QA/KSENDZOV/HomeWorks/GITHUB/JSON/edit_picture5.jpg)
+![Commit button](https://github.com/Olga-Ivasenko/JSON/blob/14e45b8cad289f91cc1002ad7302b7915268ba2a/edit_picture5.jpg)
 - commands:
 ```bash
 cd MyDirectory	//where new project to be placed locally
@@ -115,7 +115,7 @@ git push
 - go to GitHub, repository you`ve created
 - push `Add File` dropdown button
 - choose `Create new file`
-![Commit button](/C:/QA/KSENDZOV/HomeWorks/GITHUB/JSON/edit_picture4.jpg)
+![Commit button](https://github.com/Olga-Ivasenko/JSON/blob/14e45b8cad289f91cc1002ad7302b7915268ba2a/edit_picture4.jpg)
 - name your file "bug-report.json"
 
 **17. Сделать Commit changes (сохранить) изменения на веб интерфейсе**
@@ -123,13 +123,13 @@ git push
 - enter \{} to the edit field of the file
 - choose `Preview` tab
 - push `Commit your file` button
-![Commit button](/C:/QA/KSENDZOV/HomeWorks/GITHUB/JSON/edit_picture3.jpg)
+![Commit button](https://github.com/Olga-Ivasenko/JSON/blob/14e45b8cad289f91cc1002ad7302b7915268ba2a/edit_picture3.jpg)
 
 **18. На веб интерфейсе модифицировать файл bug_report.json, добавить баг репорт в формате JSON**
 - go to main branch of repository
 - step on your file "bug-report.json"
 - choose `edit` pictogram
-![how to find Edit](/C:/QA/KSENDZOV/HomeWorks/GITHUB/JSON/edit_picture1.jpg)
+![how to find Edit](https://github.com/Olga-Ivasenko/JSON/blob/14e45b8cad289f91cc1002ad7302b7915268ba2a/edit_picture1.jpg)
 - enter json data:
 [Json data](https://github.com/Olga-Ivasenko/JSON/blob/27513d59fa33744fef1ea328b0a6ed88cbe8a368/bug_report.json)
 
@@ -137,13 +137,14 @@ git push
 - go down of edit file page
 - optional: add description
 - click `Commit changes` button
-![Commit button](/C:/QA/KSENDZOV/HomeWorks/GITHUB/JSON/edit_picture2.jpg)
+![Commit button](https://github.com/Olga-Ivasenko/JSON/blob/14e45b8cad289f91cc1002ad7302b7915268ba2a/edit_picture2.jpg)
 
 **20. Синхронизировать внешний и локальный репозиторий JSON**
 ```bash
-git
-git
-git
+git fetch ---all
+git status
+git merge
+git push
 
 ```
 
