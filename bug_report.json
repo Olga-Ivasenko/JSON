@@ -13,7 +13,7 @@
      "browser": "Chrome Version 98.0.4758.102"
     },
   "resourceVersion": "v13.06",
-  “stepsToReproduce”:{
+  "stepsToReproduce":{
     "step1": "open page https:/xxx/yyy/zzz/",
     "step2": "step on [User email] field",
     "step3": "enter email qwerty@gmail.com",
