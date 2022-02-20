@@ -1,0 +1,18 @@
+
+{
+	"group": 27,
+	"speciality": "QA manual",
+	"BestJobDirection": "API integration testing",
+	"SalaryLevel": 1000,
+	"aboutMySelf":{
+		"firstName": "Olga",
+		"SecondName": "Ivasenko",
+		"age": 49
+	},
+
+	"aboutMyPets":{
+		"PetNmae": "Baja",
+		"PetAge": 6
+		}
+		
+}

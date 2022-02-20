@@ -1,0 +1,16 @@
+
+{
+  "FavoriteMpvie":{
+    "Movie1": "Avatar",
+    "Movie2": "The Lord of the Rings",
+    "Movie3": "Ajvengo"
+  },
+  "FavoriteCast": "Midsomer Murder",
+  "FavoriteBook":{
+    "Book1": "All creatures great and small",
+    "Book2": "Cosmobioluhi"
+  },
+  "FavoriteMeal": "Lemon cookies",
+  "FavoriteMonth": "May",
+  "WishCountry": "New Zealand"
+}
