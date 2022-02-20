@@ -1,26 +1,27 @@
 {
-  “creationDate": "19 FEB 2022",
-  "id”: “HW02001”,
-  “author”: “Olga Ivasenko”,
-  “assignedTo”: “Vadim Ksendzov”,
-  “bugStatus”: “Assigned”,
-“title”: “Submit button on Login page is not clickable”,
-“severity”: “Critical”,
-“priority”: “High”,
-“environment”:{
-“resource”: “https:/xxx/yyy/zzz/”,
-“os”: “Windows 10, 64”,
-“browser”: “Chrome Version 98.0.4758.102”
-},
-“resourceVersion”: “v13.06”,
-“stepsToReproduce”:{
-“step1”: “open page https:/xxx/yyy/zzz/”,
-“step2”: “step on [User email] field”,
-“step3”: “enter email qwerty@gmail.com”,
-“step4”: “step on [Password] field”,
-“step5”: “enter Password 123456789”,
-“step6”: “push [Submit] button”
-},
-“expectedResult”: “[Submit] button changes color to dark green while clicking, main page of the site is opening”,
-“actualResult”: “[Submit] button is not clickable, main page of the site is not opening”,
+  "creationDate": "19 FEB 2022",
+  "id": "HW02001",
+  "author": "Olga Ivasenko",
+  "assignedTo": "Vadim Ksendzov",
+  "bugStatus": "Assigned",
+  "title": "Submit button on Login page is not clickable",
+  "severity": "Critical",
+  "priority": "High",
+  "environment":{
+     "resource": "https:/xxx/yyy/zzz/",
+     "os": "Windows 10, 64",
+     "browser": "Chrome Version 98.0.4758.102"
+    },
+  "AppVersion": "v13.06",
+  "stepsToReproduce":{
+    "step1": "open page https:/xxx/yyy/zzz/",
+    "step2": "step on [User email] field",
+    "step3": "enter email qwerty@gmail.com",
+    "step4": "step on [Password] field",
+    "step5": "enter Password 123456789",
+    "step6": "push [Submit] button"
+    },
+  "expectedResult": "[Submit] button changes color to dark green while clicking, main page of the site is opening",
+  "actualResult": "[Submit] button is not clickable, main page of the site is not opening",
 }
+

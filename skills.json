@@ -30,7 +30,7 @@
       "point11": "Jmeter"
     },
     "BasicOfLanguagesAndFormats":{
-      "option1": "JASON",
+      "option1": "JSON",
       "option2": "XML",
       "option3": "HTML",
       "option4": "JAVASCRIPT",

@@ -11,6 +11,7 @@
 	},
 
 	"aboutMyPets":{
+		"PetType": "Cat",
 		"PetNmae": "Baja",
 		"PetAge": 6
 		}
