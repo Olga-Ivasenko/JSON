@@ -24,3 +24,4 @@
   "expectedResult": "[Submit] button changes color to dark green while clicking, main page of the site is opening",
   "actualResult": "[Submit] button is not clickable, main page of the site is not opening",
 }
+
