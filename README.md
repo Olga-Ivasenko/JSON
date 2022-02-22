@@ -106,9 +106,7 @@ vim sklls.json // or without touch but save before closing
 ```bash
 cd JSON
 git status
-git add skills.json preferences.json
-git status
-git commit -m "add two files"
+git commit -am "add two files"
 git push
 ```
 **16. На веб интерфейсе создать файл bug_report.json**
@@ -143,10 +141,6 @@ git push
 ```bash
 cd JSON
 git pull
-git add .
-git status
-git commit -m
-git push
 
 ```
 
