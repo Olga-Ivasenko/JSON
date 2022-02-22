@@ -103,10 +103,18 @@ vim sklls.json // or without touch but save before closing
 [Json data](https://github.com/Olga-Ivasenko/JSON/blob/27513d59fa33744fef1ea328b0a6ed88cbe8a368/skills.json)
 
 **15. Отправить сразу 2 файла на внешний репозиторий**
+1) if all changed/added files from the list:
 ```bash
 cd JSON
 git status
 git commit -am "add two files"
+git push
+```
+2) if choosen files from the list:
+```bash
+cd JSON
+git status
+git commit -am "add two files" skills.json preferences.json
 git push
 ```
 **16. На веб интерфейсе создать файл bug_report.json**
